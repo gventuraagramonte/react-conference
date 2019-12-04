@@ -2,7 +2,7 @@
   "badges": [
     {
       "id": "250fe715-88d4-4c18-95e7-62a6a097803a",
-      "firstName": "Zoie",
+      "firstName": "Zoppie",
       "lastName": "Grant",
       "email": "Efrain_Gaylord6@yahoo.com",
       "jobTitle": "Corporate Branding Representative",
@@ -52,6 +52,14 @@
       "jobTitle": "Computer Programmer",
       "twitter": "gventuraAG",
       "id": "dm9FhLG"
+    },
+    {
+      "firstName": "Snoopy",
+      "lastName": "Freestyle",
+      "email": "snoopyfreestyle@example.com",
+      "jobTitle": "Freestyles",
+      "twitter": "snoopy",
+      "id": "Vu14sIZ"
     }
   ]
 }
